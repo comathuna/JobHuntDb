@@ -1,1 +1,1 @@
-# JobHuntDb
+# pythonSQLite
